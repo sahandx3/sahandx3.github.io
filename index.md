@@ -9,16 +9,6 @@
 </head>
 <body>
 
-<div id="mhead">
-    <h2 class="heads" id="header"><strong>Test</strong> Site</h2>
-    <div id="inhead">
-    <h3 class="heads" id="home"><a href="#"> Home </a></h3>
-    <h3 class="heads" id="table"><a href="Table.html"> Table </a></h3>
-    <h3 class="heads" id="signup"><a href="SignUp.php"> SignUp </a></h3>
-    </div>
-</div>
-
-
 <div class="container">
 
     <div class="box1">
