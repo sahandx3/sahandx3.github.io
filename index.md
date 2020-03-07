@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Home</title>
 
-    <link rel="stylesheet" href="Home.css">x
+    <link rel="stylesheet" href="Home.css">
 
 </head>
 <body>
